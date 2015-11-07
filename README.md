@@ -1,7 +1,9 @@
 # Cobalt2-Like
 Cobalt2-Like color profile for OS X native Terminal app.
 
-Cobalt2-Like is only a color profile for the Terminal app. To get similar look of shell as shown in following screenshot, you will need to install [Oh My ZSH](http://ohmyz.sh/) and [Cobalt2 theme by Wesbos](https://github.com/wesbos/Cobalt2-iterm#step-by-step-installation).
+Cobalt2-Like is only a color profile for the Terminal app. The profile uses Powerline fonts that can be installed from [Powerline fonts repo](https://github.com/powerline/fonts).
+
+To get similar look of shell as shown in following screenshot, you will need to install [Oh My ZSH](http://ohmyz.sh/) and [Cobalt2 theme by Wesbos](https://github.com/wesbos/Cobalt2-iterm#step-by-step-installation).
 
 > The color profile is inspired and based on official colors from [Cobalt2 color profile for iTerm2](https://github.com/wesbos/Cobalt2-iterm#step-by-step-installation) by  [Wesbos](https://github.com/wesbos/).
 
